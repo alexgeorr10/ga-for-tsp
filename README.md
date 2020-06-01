@@ -1,2 +1,3 @@
 # ga-for-tsp
-Genetic Algorithm for the Traveling Salesman Problem
+
+In the jupyter notebook, we implement a genetic algorithm for the classic traveling salesman problem
